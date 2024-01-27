@@ -1,1 +1,1 @@
-# nosql-challenge
+#  Eat Safe, Love: Food Magazine
