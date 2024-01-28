@@ -28,5 +28,7 @@ How many establishments in each Local Authority area have a hygiene score of 0?
 ## Files in this repository
 
 Contained within this repository:
-    1) Analysis folder with the completed analysis of the database
-    2) Resources folder with the .json files used in the analysis
+
+        1) Analysis folder with the completed analysis of the database
+        
+        2) Resources folder with the .json files used in the analysis
