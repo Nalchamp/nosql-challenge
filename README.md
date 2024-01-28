@@ -23,3 +23,10 @@ How many establishments in each Local Authority area have a hygiene score of 0?
     Below is a preview of the first 10 rows:
 
 <img width="216" alt="Screenshot 2024-01-28 at 11 16 06 AM" src="https://github.com/Nalchamp/nosql-challenge/assets/145158606/61a65d58-ea4f-4cc7-9d21-d505ea6383e0">
+
+
+## Files in this repository
+
+Contained within this repository:
+    1) Analysis folder with the completed analysis of the database
+    2) Resources folder with the .json files used in the analysis
