@@ -22,14 +22,4 @@ There are 55 establishments in each Local Authority area that have a hygeine sco
 
 Below is a preview of the first 10 rows:
 
-_id	count
-0	Thanet	1130
-1	Greenwich	882
-2	Maidstone	713
-3	Newham	711
-4	Swale	686
-5	Chelmsford	680
-6	Medway	672
-7	Bexley	607
-8	Southend-On-Sea	586
-9	Tendring	542
+<img width="216" alt="Screenshot 2024-01-28 at 11 16 06 AM" src="https://github.com/Nalchamp/nosql-challenge/assets/145158606/61a65d58-ea4f-4cc7-9d21-d505ea6383e0">
